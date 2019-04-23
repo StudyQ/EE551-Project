@@ -2,7 +2,7 @@
 Hui Qu<br/>
 Project Name: Aircraft Wars<br/>
 ## Introduction
-I will use Python to design a game called 'Aircraft Wars'. This is a flying shooting game, the overall environment is mainly around space. In a simple operation, the mouse moves freely in one place. The fighter follows the mouse and continuously launches the missile. When the enemy is hit by the missile of our plane, it disappears. At the same time, enemy fighters will also attack our aircraft, and moving the mouse up and down can also avoid attacks. What the player has to do in the game is to drive the fighter and attack the enemy's fighter.
+Using Python to design a game called 'EE551Spring Aircraft Wars'. This is a flying shooting game, the overall environment is mainly around space. In a simple operation, the mouse moves freely in one place. The aircraft is controled by keybord and continuously launches the bullet. When the enemy is hit by the bullet of our aircraft, it disappears. At the same time, enemy fighters will also attack our aircraft, and using keyboard to up and down can also avoid attacks. What the player has to do in the game is to drive the aircraft and attack the enemy's aircraft.
 
 ## Design Flow
 ### 1. Building a game framework
