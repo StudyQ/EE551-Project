@@ -18,7 +18,7 @@ d. Game body loop and frame rate settings.<br/>
 e. Score display and ‘GameOver’ display.<br/>
 
 ### 3. Test procedure
-a.Design the program code to detect if the main program has a vulnerability.<br/>
+a.Design the program code to detect if the main program have bug.<br/>
 b.Run the game to detect if the game is still working properly under various conditions.
 
 ## The Basic Settings of The Game.
