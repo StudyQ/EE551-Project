@@ -18,4 +18,21 @@ d. Game body loop and frame rate settings.<br/>
 e. Score display and ‘GameOver’ display.<br/>
 
 ### 3. Test procedure
-Test and debug the program.
+a.Design the program code to detect if the main program has a vulnerability.
+b.Run the game to detect if the game is still working properly under various conditions.
+
+## The Basic Settings of The Game.
+a.The enemy has three large, medium and small aircraft.<br/>
+b.The range of the bullet is not full screen, which is about 80% of the screen length.<br/>
+c.It takes one round of bullets to eliminate a small enemy aircraft, eight rounds for a neutral aircraft, and 20 rounds for a large aircraft.<br/>
+d.Eliminate 1,000 points for a small aircraft, 6,000 points for a medium-sized aircraft, and 10,000 points for a large aircraft.<br/>
+e.There were only three bombs that bombed all the enemy planes.<br/>
+f.Our aircraft has a safe time of 3 seconds for each rebirth.<br/>
+g.The highest score will be displayed after the game is over.<br/>
+
+##Game control:
+W or Up button, the plane rises.<br/>
+A or Left button, the plane is to the left.<br/>
+D or Right button, the plane is to the right.<br/>
+S or Down button, the plane is down.<br/>
+Space bar, launch a bomb that blows up all enemy planes.<br/>
