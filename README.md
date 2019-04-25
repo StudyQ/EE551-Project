@@ -24,7 +24,7 @@ b.Run the game to detect if the game is still working properly under various con
 ## The Basic Settings of The Game.
 a.The enemy has three large, medium and small aircraft.<br/>
 b.The range of the bullet is not full screen, which is about 80% of the screen length.<br/>
-c.It takes one round of bullets to eliminate a small enemy aircraft, eight rounds for a neutral aircraft, and 20 rounds for a large aircraft.<br/>
+c.It takes one round of bullets to eliminate a small enemy aircraft, eight rounds for a medium aircraft, and 20 rounds for a large aircraft.<br/>
 d.Eliminate 1,000 points for a small aircraft, 6,000 points for a medium-sized aircraft, and 10,000 points for a large aircraft.<br/>
 e.There were only three bombs that bombed all the enemy planes.<br/>
 f.Our aircraft has a safe time of 3 seconds for each rebirth.<br/>
