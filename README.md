@@ -30,7 +30,7 @@ e.There were only three bombs that bombed all the enemy planes.<br/>
 f.Our aircraft has a safe time of 3 seconds for each rebirth.<br/>
 g.The highest score will be displayed after the game is over.<br/>
 
-##Game control:
+## Game Control:
 W or Up button, the plane rises.<br/>
 A or Left button, the plane is to the left.<br/>
 D or Right button, the plane is to the right.<br/>
